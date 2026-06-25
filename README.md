@@ -66,7 +66,7 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 **Programming Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,python,java" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
   </a>
 </p>
 
