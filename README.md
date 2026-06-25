@@ -63,6 +63,13 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 
 ### 🛠️ Languages and Tools
 
+**Programming Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++,python,java" />
+  </a>
+</p>
+
 **Full Stack Development**
 <p align="left">
   <a href="https://skillicons.dev">
