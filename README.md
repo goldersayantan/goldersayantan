@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sayantan Golder</h1>
-<h3 align="center">Full Stack Developer 🚀 | AI/ML Researcher 🧠</h3>
+<h3 align="center">AI/ML Researcher 🧠 | Full Stack Developer 🚀</h3>
 
 <p align="center">
   <a href="https://twitter.com/sayantangolder" target="_blank">
@@ -31,6 +31,35 @@
 - 💬 Ask me about **Full-Stack Development, AI/ML, C, and Python**.
 - 📫 How to reach me: **[sayantangolder1710@gmail.com](mailto:sayantangolder1710@gmail.com)**
 - 📄 Check out my full experience on my **[Portfolio Website](https://sayantangolder.netlify.app/)**.
+
+---
+
+### 🎓 Academic Performance
+
+| Semester | SGPA | Status |
+| :---: | :---: | :---: |
+| **1st Semester** | 8.95 | 🟢 Completed |
+| **2nd Semester** | 9.23 | 🟢 Completed |
+| **3rd Semester** | 8.38 | 🟢 Completed |
+| **4th Semester** | 9.58 | 🟢 Completed |
+| **5th Semester** | 9.64 | 🟢 Completed |
+| **6th Semester** | 9.73 | 🟢 Completed |
+| **7th Semester** | - | 🟡 In Progress |
+| **8th Semester** | - | ⚪ Upcoming |
+
+> **Overall CGPA:** 9.25 / 10.0
+
+---
+
+### 💼 Internship Experience
+
+**Undergraduate Research Intern (Machine Learning)** | **DSZ Innovation Labs**  
+*Jun 2025 – Jul 2025*  
+- Contributed to research on **"Spectrum Prediction via DMS Strategy,"** aimed at enhancing wireless spectrum efficiency using advanced deep learning and statistical techniques.
+- Developed and implemented **Bi-directional LSTM (BiLSTM)** neural networks using **TensorFlow/Keras** for accurate time-series prediction of spectrum usage.
+- Preprocessed and simulated real-world wireless spectrum datasets, comparing deep learning architectures (**CNN, RNN, BiLSTM**) against traditional Moving Average models to analyze performance trade-offs.
+- Evaluated predictive models using Accuracy, Precision, Recall, F1-Score, and Confusion Matrices, leveraging **Matplotlib** for performance visualization.
+- **Tech Stack & Concepts:** Python, TensorFlow, Keras, Matplotlib, Time-Series Analysis, Sequence Modeling, BiLSTM, CNN, RNN.
 
 ---
 
@@ -85,17 +114,25 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
   </a>
 </p>
 
-**AI/ML & Core Programming**
+**AI/ML Technologies & Architectures**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,tensorflow,pytorch" />
-  </a>
+  <!-- Libraries with Logos -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <br>
+  <!-- Architectures (Text-based Badges) -->
+  <img src="https://img.shields.io/badge/CNN-2C3E50?style=for-the-badge" alt="CNN" />
+  <img src="https://img.shields.io/badge/LSTM-2C3E50?style=for-the-badge" alt="LSTM" />
+  <img src="https://img.shields.io/badge/Bi--LSTM-2C3E50?style=for-the-badge" alt="Bi-LSTM" />
 </p>
 
 **Design & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,canva" />
   </a>
 </p>
 
@@ -119,6 +156,21 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 </div>
 
 ---
+
+---
+
+### 📸 Memorable Moments
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 1" width="48%" />
+  &nbsp;
+  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 2" width="48%" />
+</p>
+<p align="center">
+  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 3" width="48%" />
+  &nbsp;
+  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 4" width="48%" />
+</p>
 
 ### 🤝 Connect with Me
 
