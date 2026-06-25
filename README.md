@@ -112,5 +112,5 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
   <a href="https://linkedin.com/in/sayantan-golder1710" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:sayantangolder1710@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
   <a href="https://youtube.com/@sayantangolder" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
-  <a href="https://leetcode.com/u/sayantan_golder/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/sayantan_golder/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="48" height="48"/></a>
 </p>
