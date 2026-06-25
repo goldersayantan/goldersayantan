@@ -107,20 +107,27 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 
 ### 🤝 Connect with Me
 
-
 <p align="center">
   <a href="https://twitter.com/sayantangolder" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://linkedin.com/in/sayantan-golder1710" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:sayantangolder1710@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://youtube.com/@sayantangolder" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/sayantan_golder/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="48" height="48" />
   </a>
