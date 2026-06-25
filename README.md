@@ -45,6 +45,22 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 
 ---
 
+### 💻 Featured Projects
+
+**[Project Name 1: e.g., AI Image Classifier]**  
+[Write a 1-2 sentence description explaining what the project does, the problem it solves, and your specific role in building it.]  
+**Tech Stack:** Python, TensorFlow, React • 🔗 [Live Demo](#) • 💻 [Source Code](#)
+
+**[Project Name 2: e.g., Full Stack E-Commerce App]**  
+[Write a 1-2 sentence description explaining the core features of this application and what makes it unique.]  
+**Tech Stack:** MongoDB, Express, React, Node.js • 🔗 [Live Demo](#) • 💻 [Source Code](#)
+
+**[Project Name 3: e.g., Data Analysis Dashboard]**  
+[Write a 1-2 sentence description detailing the data insights provided by this project.]  
+**Tech Stack:** HTML, CSS, JavaScript, Python • 🔗 [Live Demo](#) • 💻 [Source Code](#)
+
+---
+
 ### 🛠️ Languages and Tools
 
 **Full Stack Development**
