@@ -71,9 +71,17 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 </p>
 
 **Full Stack Development**
+**Frontend Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,php,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  </a>
+</p>
+
+**Backend Development & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb" />
   </a>
 </p>
 
