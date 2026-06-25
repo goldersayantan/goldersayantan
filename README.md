@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/goldersayantan/Work-Images/blob/main/linkedin_github_banner.png?raw=true" alt="Banner" width="100%">
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Sayantan Golder</h1>
 <h3 align="center">AI/ML Researcher 🧠 | Full Stack Developer 🚀</h3>
@@ -18,8 +18,17 @@
   </a>
 </p>
 
-<p align="center"> 
-  <img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="Coding GIF" width="300"/> 
+### 📸 Memorable Moments
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 1" width="48%" />
+  &nbsp;
+  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 2" width="48%" />
+</p>
+<p align="center">
+  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 3" width="48%" />
+  &nbsp;
+  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 4" width="48%" />
 </p>
 
 ---
@@ -156,21 +165,6 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 </div>
 
 ---
-
----
-
-### 📸 Memorable Moments
-
-<p align="center">
-  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 1" width="48%" />
-  &nbsp;
-  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 2" width="48%" />
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 3" width="48%" />
-  &nbsp;
-  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 4" width="48%" />
-</p>
 
 ### 🤝 Connect with Me
 
