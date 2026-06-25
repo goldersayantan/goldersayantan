@@ -107,10 +107,18 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 
 ### 🤝 Connect with Me
 
-<p align="center">
+<!-- <p align="center" justify-content="space between">
   <a href="https://twitter.com/sayantangolder" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/sayantan-golder1710" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:sayantangolder1710@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
   <a href="https://youtube.com/@sayantangolder" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
   <a href="https://leetcode.com/u/sayantan_golder/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="48" height="48"/></a>
-</p>
+</p> -->
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayantan_Golder-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sayantan-golder1710)
+[![Twitter](https://img.shields.io/badge/Twitter-@sayantangolder-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/sayantangolder)
+[![YouTube](https://img.shields.io/badge/YouTube-Sayantan_Golder-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@sayantangolder)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sayantan_golder/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:sayantangolder1710@gmail.com)
