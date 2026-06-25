@@ -1,9 +1,4 @@
-<!-- Banner Image -->
-<!-- <p align="center">
-  <img src="https://github.com/goldersayantan/Work-Images/blob/main/linkedin_github_banner.png?raw=true" alt="Banner" width="100%">
-</p> -->
-
-<h1 align="center">Hi 👋, I'm Sayantan Golder</h1>
+<h1 align="center">Hi 👋, I'm <b><i>SAYANTAN GOLDER</i></b></h1>
 <h3 align="center">AI/ML Researcher 🧠 | Full Stack Developer 🚀</h3>
 
 <p align="center">
@@ -18,17 +13,16 @@
   </a>
 </p>
 
+---
+
 ### 📸 Memorable Moments
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 1" width="48%" />
+  <img src="https://github.com/goldersayantan/Work-Images/blob/main/NIT_Durgapur.jpeg?raw=true" alt="Memory 1" width="32%" height="500" />
   &nbsp;
-  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 2" width="48%" />
-</p>
-<p align="center">
-  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 3" width="48%" />
+  <img src="https://github.com/goldersayantan/Work-Images/blob/main/Presentation_Durgapur.jpeg?raw=true" alt="Memory 2" width="32%" height="500" />
   &nbsp;
-  <img src="https://via.placeholder.com/400x300/1e1e2e/ffffff?text=Upload+to+Work-Images+Repo" alt="Memory 4" width="48%" />
+  <img src="https://github.com/goldersayantan/Work-Images/blob/main/Sayantan_Golder_Merit_Scholarship.jpeg?raw=true" alt="Memory 3" width="32%" height="500" />
 </p>
 
 ---
@@ -76,26 +70,45 @@
 
 I actively research in the Artificial Intelligence and Machine Learning space. I have authored **4 research papers**, with two pre-prints currently available online:
 
-*   📄 **[Insert Title of First Pre-print Paper Here]** — [Read the Pre-print Here](#) *(Replace `#` with your actual link)*
-*   📄 **[Insert Title of Second Pre-print Paper Here]** — [Read the Pre-print Here](#) *(Replace `#` with your actual link)*
-*   *Upcoming:* [Brief description or title of paper 3]
-*   *Upcoming:* [Brief description or title of paper 4]
+*   📄 **Camouflage Optimization Algorithm: An adaptive Evolutionary Framework for Fast and Robust Convergence**
+    <br>↳ 🔗 *[Read the Pre-print on SSRN](https://ssrn.com/abstract=6879699)*
+
+*   📄 **VARC-UNet: A Variational Attention Framework with Content-Aware Upsampling for Nicotine Stain Image Segmentation**
+    <br>↳ 🔗 *[Read the Pre-print on ResearchGate](https://www.researchgate.net/publication/404307126_VARC-UNet_A_Variational_Attention_Framework_with_Content-Aware_Upsampling_for_Nicotine_Stain_Image_Segmentation)*
+
+*   ⏳ **[A Step-by-Step Process to Create and Improve Prompts for Domain-Specific AI Language Models]**
+    <br>↳ 📝 *Status: Under Review*
+
+*   ⏳ **[A Unified Multi-View Video Dataset for Bengali Sign Language Recognition]**
+    <br>↳ 📝 *Status: Under Review*
 
 ---
 
 ### 💻 Featured Projects
 
-**[Project Name 1: e.g., AI Image Classifier]**  
-[Write a 1-2 sentence description explaining what the project does, the problem it solves, and your specific role in building it.]  
-**Tech Stack:** Python, TensorFlow, React • 🔗 [Live Demo](#) • 💻 [Source Code](#)
+**VibeStay – Stays That Match Your Vibe**  
+A production-ready, full-stack hospitality marketplace designed and developed end-to-end, featuring custom system architecture, robust database design, and secure authentication workflows.
 
-**[Project Name 2: e.g., Full Stack E-Commerce App]**  
-[Write a 1-2 sentence description explaining the core features of this application and what makes it unique.]  
-**Tech Stack:** MongoDB, Express, React, Node.js • 🔗 [Live Demo](#) • 💻 [Source Code](#)
+*   **For Travelers:** Discover properties, **filter and book specific room categories tailored to personal requirements**, check real-time availability via a custom conflict-detection engine, submit booking requests, and leave ratings/reviews.
+*   **For Hosts:** Manage listings, configure room inventories, approve/reject bookings, and monitor occupancy through an intuitive host dashboard.
+*   **Key Engineering Features:** Advanced availability logic to prevent overbooking, dynamic pricing calculations, role-based access control, cloud media storage, and automated email notifications.
 
-**[Project Name 3: e.g., Data Analysis Dashboard]**  
-[Write a 1-2 sentence description detailing the data insights provided by this project.]  
-**Tech Stack:** HTML, CSS, JavaScript, Python • 🔗 [Live Demo](#) • 💻 [Source Code](#)
+**Tech Stack:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=html5&logoColor=black" alt="EJS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br>
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge" alt="Passport.js" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Brevo-009286?style=for-the-badge&logo=brevo&logoColor=white" alt="Brevo" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
+
+🔗 **[Live Demo](https://vibestay-wiwz.onrender.com/)** &nbsp; • &nbsp; 💻 **[Source Code](#)**
 
 ---
 
@@ -141,7 +154,7 @@ I actively research in the Artificial Intelligence and Machine Learning space. I
 **Design & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,canva" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github />
   </a>
 </p>
 
