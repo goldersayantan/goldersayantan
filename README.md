@@ -29,7 +29,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently developing a comprehensive directory of major enterprise technology firms and global IT consulting organizations (including Deloitte and others).
 - 🌱 I’m currently deepening my knowledge in **Data Structures & Algorithms (DSA)** and advanced **Machine Learning** techniques.
 - 💬 Ask me about **Full-Stack Development, AI/ML, C, and Python**.
 - 📫 How to reach me: **[sayantangolder1710@gmail.com](mailto:sayantangolder1710@gmail.com)**
