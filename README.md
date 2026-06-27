@@ -5,7 +5,7 @@
   <a href="https://twitter.com/sayantangolder" target="_blank">
     <img src="https://img.shields.io/twitter/follow/sayantangolder?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white" alt="Twitter" />
   </a>
-  <a href="www.linkedin.com/in/sayantan-golder" target="_blank">
+  <a href="https://linkedin.com/in/sayantan-golder" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://sayantangolder.netlify.app/" target="_blank">
